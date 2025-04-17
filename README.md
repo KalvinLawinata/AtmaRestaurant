@@ -11,18 +11,18 @@
 - Keefe Melvern (220711887) - design & backend
 
 ### Login & Register
-![login](fotoReadme/login.png)
-![register](fotoReadme/Register.png)
+![login](atmarestaurant/fotoReadme/login.png)
+![register](atmarestaurant/fotoReadme/Register.png)
 
 ### User Interface
-![home](fotoReadme/home.png)
-![usermenu](fotoReadme/user_menu.png)
-![userprofile](fotoReadme/user_profile.png)
-![userpembayaran](fotoReadme/user_pembayaran.png)
+![home](atmarestaurant/fotoReadme/home.png)
+![usermenu](atmarestaurant/fotoReadme/user_menu.png)
+![userprofile](atmarestaurant/fotoReadme/user_profile.png)
+![userpembayaran](atmarestaurant/fotoReadme/user_pembayaran.png)
 
 ### Admin Interface
-![adminDashboard](fotoReadme/admin_dashboard.png)
-![adminUser](fotoReadme/admin_user.png)
-![adminMenu](fotoReadme/admin_menu.png)
+![adminDashboard](atmarestaurant/fotoReadme/admin_dashboard.png)
+![adminUser](atmarestaurant/fotoReadme/admin_user.png)
+![adminMenu](atmarestaurant/fotoReadme/admin_menu.png)
 
 
